@@ -1,1 +1,1 @@
-Java Hard IPE Solutions made by Pratham Shah
+Some Java Programs made by Pratham Shah
